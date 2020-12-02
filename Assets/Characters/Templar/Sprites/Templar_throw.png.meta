@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 17d42481e5895244fb33c0668a60ab12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Templar_throw_0
+  - first:
+      213: 21300002
+    second: Templar_throw_1
+  - first:
+      213: 21300004
+    second: Templar_throw_2
+  - first:
+      213: 21300006
+    second: Templar_throw_3
+  - first:
+      213: 21300008
+    second: Templar_throw_4
+  - first:
+      213: 21300010
+    second: Templar_throw_5
+  - first:
+      213: 21300012
+    second: Templar_throw_6
+  - first:
+      213: 21300014
+    second: Templar_throw_7
+  - first:
+      213: 21300016
+    second: Templar_throw_8
+  - first:
+      213: 21300018
+    second: Templar_throw_9
+  - first:
+      213: 21300020
+    second: Templar_throw_10
+  - first:
+      213: 21300022
+    second: Templar_throw_11
+  - first:
+      213: 21300024
+    second: Templar_throw_12
+  - first:
+      213: 21300026
+    second: Templar_throw_13
+  - first:
+      213: 21300028
+    second: Templar_throw_14
+  - first:
+      213: 21300030
+    second: Templar_throw_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Templar_throw_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 383
+        width: 145
+        height: 265
+      alignment: 9
+      pivot: {x: 0.4817586, y: 0.47005674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 380
+        width: 228
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5348026, y: 0.4499055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 380
+        width: 240
+        height: 261
+      alignment: 9
+      pivot: {x: 0.55510384, y: 0.4493297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_3
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 382
+        width: 242
+        height: 259
+      alignment: 9
+      pivot: {x: 0.565578, y: 0.44893843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_4
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 382
+        width: 240
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5551041, y: 0.44874063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_5
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 386
+        width: 232
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5570042, y: 0.42594042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_6
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 386
+        width: 226
+        height: 250
+      alignment: 9
+      pivot: {x: 0.54681396, y: 0.42594042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_7
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 386
+        width: 168
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5944635, y: 0.42594042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_8
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 384
+        width: 166
+        height: 252
+      alignment: 9
+      pivot: {x: 0.62746936, y: 0.38454413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_9
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 384
+        width: 216
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5612273, y: 0.42087638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_10
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 384
+        width: 216
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5244909, y: 0.43217978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_11
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 384
+        width: 198
+        height: 234
+      alignment: 9
+      pivot: {x: 0.56679344, y: 0.42087638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_12
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 383
+        width: 197
+        height: 235
+      alignment: 9
+      pivot: {x: 0.59398544, y: 0.43246835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_13
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 380
+        width: 153
+        height: 259
+      alignment: 9
+      pivot: {x: 0.58643854, y: 0.43872613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_14
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 383
+        width: 146
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5181166, y: 0.45946378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Templar_throw_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 145
+        height: 262
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.44952306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

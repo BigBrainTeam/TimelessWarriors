@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f085471d66cc7343a1289bf382d841a, type: 3}
+  m_Name: FightSettings
+  m_EditorClassIdentifier: 
+  mapSelection: TemplarMap
+  selectedCharacters: []
+  selectedSkins: 
+  nPlayersCanJoin: 4
+  selectedItems:
+  - Mine
+  - Shuriken
+  - Bomb
+  type: TimedFight
+  winFactorQ: 3
+  stageChoice: CHOOSE
+  colors:
+  - serializedVersion: 2
+    rgba: 4280826057
+  - serializedVersion: 2
+    rgba: 4293361705
+  - serializedVersion: 2
+    rgba: 4280150316
+  - serializedVersion: 2
+    rgba: 4281524204

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d55751e15e1048445a9ebd89e68b001d
+timeCreated: 1495274483
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fightData: {fileID: 11400000, guid: d5a82210725b46242bc8e70c21cc0d40, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

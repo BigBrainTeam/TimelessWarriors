@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3939c6d34c332ba409fb45a25bdd0f45
+timeCreated: 1496255808
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - countdownGO: {instanceID: 0}
+  - itemSpawner: {instanceID: 0}
+  - camC: {instanceID: 0}
+  - timePrefab: {fileID: 1408222204014104, guid: f15714010ea1eaa4e9d11dcb298a8d6b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

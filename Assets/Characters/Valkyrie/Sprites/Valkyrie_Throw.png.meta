@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 6b26057835455e04cb27c3dcb7883f68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Valkyrie_Throw_0
+  - first:
+      213: 21300002
+    second: Valkyrie_Throw_1
+  - first:
+      213: 21300004
+    second: Valkyrie_Throw_2
+  - first:
+      213: 21300006
+    second: Valkyrie_Throw_3
+  - first:
+      213: 21300008
+    second: Valkyrie_Throw_4
+  - first:
+      213: 21300010
+    second: Valkyrie_Throw_5
+  - first:
+      213: 21300012
+    second: Valkyrie_Throw_6
+  - first:
+      213: 21300014
+    second: Valkyrie_Throw_7
+  - first:
+      213: 21300016
+    second: Valkyrie_Throw_8
+  - first:
+      213: 21300018
+    second: Valkyrie_Throw_9
+  - first:
+      213: 21300020
+    second: Valkyrie_Throw_10
+  - first:
+      213: 21300022
+    second: Valkyrie_Throw_11
+  - first:
+      213: 21300024
+    second: Valkyrie_Throw_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valkyrie_Throw_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 201
+        height: 277
+      alignment: 9
+      pivot: {x: 0.53385746, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 306
+        width: 209
+        height: 283
+      alignment: 9
+      pivot: {x: 0.554269, y: 0.48396823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 304
+        width: 209
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5596959, y: 0.49606153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 303
+        width: 209
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5705499, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_4
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 317
+        width: 201
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5959297, y: 0.46274418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_5
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 316
+        width: 196
+        height: 276
+      alignment: 9
+      pivot: {x: 0.56944245, y: 0.45890465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_6
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 316
+        width: 150
+        height: 252
+      alignment: 9
+      pivot: {x: 0.70416015, y: 0.441488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 12
+        width: 159
+        height: 250
+      alignment: 9
+      pivot: {x: 0.6712042, y: 0.45916766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 5
+        width: 188
+        height: 244
+      alignment: 9
+      pivot: {x: 0.6447949, y: 0.46281207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 5
+        width: 191
+        height: 249
+      alignment: 9
+      pivot: {x: 0.66627413, y: 0.4635588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 5
+        width: 182
+        height: 237
+      alignment: 9
+      pivot: {x: 0.6744962, y: 0.45692784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_11
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 7
+        width: 187
+        height: 238
+      alignment: 9
+      pivot: {x: 0.6698305, y: 0.45234329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie_Throw_12
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 7
+        width: 172
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6714527, y: 0.46785572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

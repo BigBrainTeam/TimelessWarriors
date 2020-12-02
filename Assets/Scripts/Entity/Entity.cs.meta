@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 389d80b0833443f4c84cb9efae0a2078
+timeCreated: 1496522641
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - grabbedItem: {instanceID: 0}
+  - attacks: {instanceID: 0}
+  - speciality: {instanceID: 0}
+  - closerPlatform: {instanceID: 0}
+  - attackEffect: {instanceID: 0}
+  - hitstunEffectP: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
