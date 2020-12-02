@@ -3,6 +3,9 @@
 Timeless Warriors is a 2D fighting game greatly inspired by Super Smash Bros. Melee. The objective is to knock your opponents out from the stage and be the last one alive.
 The game features four unique playable characters, each with their own attacks and abilities, five different maps to fight in and three different items to use during the battle against your opponents.
 
+This game was developed during the second year of Higher Education in Computer Games and Programming Skills at Escola Pia Balmes by a group of 4 students:
+[Axel Alavedra](https://github.com/AxelAlavedra), [Marc Guillen](https://github.com/Marcgs96), [Alejandro Paris](https://github.com/AlejandroParis) and Daniel Mezo.
+
 ## Characters
 
 ### Sir Lancelot
