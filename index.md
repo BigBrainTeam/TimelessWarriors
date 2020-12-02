@@ -5,20 +5,20 @@ The game features four unique playable characters, each with their own attacks a
 
 ### Characters
 
-Sir Lancelot
-[Character Story/Background]
+- Sir Lancelot
+Sir Lancelot is a knight of King Arthur, and a very disciplined one. He joins the fight with sword and shield allowing good offense and defense, he can also use holy power to create holy explosions and decimate his foes. As Ultimate Attack, Lancelot jumps onto his horse and charges forward, delivering a flurry of critical strikes to the enemies he rams.
 Thanks to his dedication, Lancelot can generate Holy Charges each time he successfully parries an attack. Later on, these Holy Charges can be used to empower his next Special Attack.
 
-Kara the Valkyrie
-[Character Story/Background]
+- Kara the Valkyrie
+Kara is a Valkyrie Hero who joins the fight with her reliable spear to take down her enemies. She can also summon the power of the storm, to deliver fulminating blows to her opponents. As Ultimate Attack, Kara will take flight, allowing her to move freely on the battlefield and unload devastating lightning bolts.
 As a Valkyrie, Kara can jump up to three times and falls slower than the rest of characters, allowing for a more floaty gameplay.
 
-Blackbeard
-[Character Story/Background]
-Blackbeard charges his pistol every time he attacks with it, untill the point which it becomes overloaded making the next pistol attack apply a burn effect, dealing damage over time.
+- Blackbeard
+Edward Thatch, Blackbeard, is know for his dirty tricks in a fight. He will slash with his sword and shoot his pistol during the fight and he can also use the power of the water to deliver devastating blows. As his Ultimate Attack, Blackbeard commands his ship crew to start bombarding the battlefield, creating a chaos and destruction.
+Blackbeard charges his pistol every time he attacks with it, untill the point it becomes overloaded making the next pistol attack apply a burn effect, dealing damage over time.
 
-Endo Kizaemon
-[Character Story/Background]
+- Endo Kizaemon
+Endo is a fallen knight of a long lost lineage, consumed by hatred and despair. He fights with a heavy axe, delivering brutal blows to his opponents and can also use the power of his shadow, making it copy his attacks and combo with him.
 Endo's shadow attacks every time he does, allowing for devastating blows. He can also place his shadow on a spot to attack from there or even teleport to it to perform a surprise attack.
 
 ### Combat Mechanics
